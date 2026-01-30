@@ -1,0 +1,72 @@
+<html>
+
+<head>
+
+<title> AD - Home Page </title>
+
+</head>
+
+<body bgcolor = 82FFB6>
+
+<h1><center> AD's Second Page </center></h1>
+
+<p><center> <img src ="https://upload.wikimedia.org/wikipedia/commons/f/fc/X-Men-logo-comics.png" width= 250 height = 250></center></p>
+
+<h2><center> Who Am I? </center></h2>
+
+<p>My name is Adedamola Kuforiji, but I go by <strong> AD</strong> since it's a lot easier to remember and pronounce. I am currently a Junior Studying Computer Science. I have a lot of varied interests across multiple subjects and genres, I like to experience and do as much as possible. I like to learn and to teach, as I have been a tutor at for a few subjects including computer science. </p>
+
+<h2>My Interests</h2>
+
+<ul>
+	<li>Programming</li>
+        <li>Video Games</li>
+        <li>Photography</li>
+	<li>Reading and Writng</li>
+        <li>Comics</li>	
+	<li>Film</li>
+	<li>Traveling</li>
+</ul>
+
+<h2>Goals</h2>
+S
+<ol>
+        <li>Graduate with a Computer Science degree</li>
+        <li>Tutor more students in computer science subjects</li>
+        <li>Incopororate more creativity and artistrty with computer science</li>
+	<li>Network more with other students in my major</li>
+</ol>
+
+<h2>My Favorite Media</h2>
+
+<table border="1" bgcolor="#C8E6C9" align="center" cellpadding="10">
+    
+    <tr bgcolor="#A5D6A7">
+        <td><img src="https://awoiaf.westeros.org/images/2/24/AStormOfSwords.jpg" width="120" height="120"></td>
+        <td><img src="https://static.wikia.nocookie.net/watchmen/images/1/1b/Tpbcover.png/revision/latest/thumbnail/width/360/height/450?cb=20250503090805" width="120" height="120"></td>
+        <td><img src="https://m.media-amazon.com/images/I/81Ua99CURsL._AC_UF1000,1000_QL80_.jpg" width="120" height="120"></td>
+    </tr>
+
+    <tr bgcolor="#B2DFDB">
+        <td><img src="https://m.media-amazon.com/images/M/MV5BZTcyN2Y0MDYtMGI1NC00MWQ1LWFhZGMtN2U4NTcxZGYyNjljXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" width="120" height="120"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxM9_Giu5kV0cJYcZc61MhSDGNXdeDO0bi3FQHmJ1zWkrseW-6_MkfIXJPTuntRJpq04w_&s=10" width="120" height="120"></td>
+        <td><img src="https://preview.redd.it/the-two-towers-teaser-poster-is-perfection-v0-7rxua3g7owgb1.jpg?auto=webp&s=2c6c8398a86e98ce3dc92aa548500591c7227e6f" width="120" height="120"></td>
+    </tr>
+
+    <tr bgcolor="#DCEDC8">
+        <td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Dishonored_box_art_Bethesda.jpg/250px-Dishonored_box_art_Bethesda.jpg" width="120" height="120"></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg" width="120" height="120"></td>
+        <td><img src="https://upload.wikimedia.org/wikipedia/en/1/1a/Terraria_Steam_artwork.jpg" width="120" height="120"></td>
+    </tr>
+
+</table>
+
+<h2>Favorite Childhood Video</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/watch?v=z1cfVQyrQ3Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+</body>
+
+</html>
